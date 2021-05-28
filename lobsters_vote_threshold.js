@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Hide Lobste.rs stories with less than a given amount of votes
 // @author       bcongdon
-// @match        https://lobste.rs/*
+// @match        https://lobste.rs/
 // @grant        none
 // ==/UserScript==
 
